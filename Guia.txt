@@ -1,0 +1,7 @@
+ERC-20:
+https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet
+https://docs.alchemy.com/docs/how-to-create-an-erc-20-token-4-steps
+
+ERC-721:
+https://www.quicknode.com/guides/ethereum-development/nfts/how-to-create-and-deploy-an-erc-721-nft#step-4-adding-json-file-to-ipfs
+https://app.pinata.cloud/pinmanager
